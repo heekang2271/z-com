@@ -112,6 +112,10 @@
   background-color: rgb(39, 44, 48);
 }
 
+.error {
+  color: red;
+}
+
 .closeButton {
   width: 34px;
   height: 34px;
